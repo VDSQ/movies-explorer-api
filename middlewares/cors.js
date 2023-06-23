@@ -1,8 +1,4 @@
-const allowedCors = [
-  "https://mesto-example.nomoredomains.monster",
-  "http://localhost:3000/",
-  "http://localhost:3001/",
-];
+const allowedCors = ["https://movies-explorer.nomoreparties.sbs"];
 
 const DEFAULT_ALLOWED_METHODS = "GET, HEAD, PUT, PATCH, POST, DELETE";
 

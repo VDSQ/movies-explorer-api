@@ -30,13 +30,5 @@
     "mongoose": "^7.3.1",
     "validator": "^13.9.0",
     "winston": "^3.9.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/VDSQ/movies-explorer-api.git"
-  },
-  "bugs": {
-    "url": "https://github.com/VDSQ/movies-explorer-api/issues"
-  },
-  "homepage": "https://github.com/VDSQ/movies-explorer-api#readme"
+  }
 }
