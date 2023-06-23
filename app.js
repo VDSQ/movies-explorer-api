@@ -7,7 +7,7 @@ const helmet = require("helmet");
 const router = require("./routes");
 const errorHandler = require("./middlewares/errorHandler");
 
-const { PORT = 3000, MONGO_DB = "mongodb://localhost:27017/bitfilmsdb" } = process.env;
+const { PORT = 3000, MONGO_DB = "mongodb://127.0.0.1:27017/bitfilmsdb" } = process.env;
 
 const app = express();
 
